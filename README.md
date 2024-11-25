@@ -1,10 +1,10 @@
 ## Deployed on nelify.com
 
-https://rental-hub007.netlify.app/home
+https://article-feeder.netlify.app/login
 
 ## GitHub Link
 
-https://github.com/Saikiran-tech-boop/Rental-Hub/tree/master
+https://github.com/Saikiran-tech-boop/Article-Feeder/tree/master
 
 ## Bonus Question
 
