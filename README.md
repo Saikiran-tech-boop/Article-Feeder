@@ -1,3 +1,17 @@
+## Deployed on nelify.com
+
+https://rental-hub007.netlify.app/home
+
+## GitHub Link
+
+https://github.com/Saikiran-tech-boop/Rental-Hub/tree/master
+
+## Bonus Question
+
+attempted but incomplete
+
+
+
 # ArticleFeeder
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
