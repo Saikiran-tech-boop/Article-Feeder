@@ -10,6 +10,9 @@ https://github.com/Saikiran-tech-boop/Article-Feeder/tree/master
 
 attempted but incomplete
 
+## Errors
+
+While Netfliy is working as excepted so use localhost 
 
 
 # ArticleFeeder
